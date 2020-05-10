@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  color: #333;
+  background: #eee;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+/* img {
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+} */
+
+#img-div {
+  padding: 10px;
+  margin: 0;
+  background: white;
+}
